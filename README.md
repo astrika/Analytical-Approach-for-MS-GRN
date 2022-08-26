@@ -14,8 +14,8 @@ Also contained in this repository:
 * Result files for all genetic and epigenetic weights used in running dmGWAS
 
 
-For downloading data from the Target Therapeutic Database please follow this link:
+For downloading data from the Target Therapeutic Database please follow this link: http://db.idrblab.net/ttd/full-data-download
 
-For running WebCSEA please follow this link:
+For running WebCSEA please follow this link:https://bioinfo.uth.edu/webcsea/
 
 For questions you may e-mail me: Astrid.M.Manuel@uth.tmc.edu
