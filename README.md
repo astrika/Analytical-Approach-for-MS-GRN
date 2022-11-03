@@ -1,4 +1,7 @@
 # Analytical-Approach-for-MS-GRN
+Reference: Astrid M Manuel, Yulin Dai, Peilin Jia, Leorah A Freeman, Zhongming Zhao, A gene regulatory network approach harmonizes genetic and epigenetic signals and reveals repurposable drug candidates for multiple sclerosis, Human Molecular Genetics, 2022;, ddac265, https://doi.org/10.1093/hmg/ddac265
+
+
 The analytical approach for identification and interpretation of a disease-specific gene regulatory network (GRN):
 ![Figure1_AnalyticalApproach](https://user-images.githubusercontent.com/10716674/186982697-94b12168-0421-4bc1-89fe-63dd012a207e.png)
 
